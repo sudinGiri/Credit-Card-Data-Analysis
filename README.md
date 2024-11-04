@@ -15,12 +15,18 @@ The **Credit Card Data Analysis** project aims to provide insightful analytics a
 * **Predictive Modeling (Optional):** Using machine learning algorithms to forecast future spending.
 
 **Sample Analysis Workflow**
+
 1 **Load the Data:** Import transaction data from CSV or database.
+
 2 **Clean the Data:** Handle missing values and format the dataset.
+
 3 **Analyze:** Generate descriptive statistics and create visualizations.
+
 4 **Interpret Results:** Summarize findings and create reports for stakeholders.
 
+
 **Visualizations**
+
 Here are some of the visualizations used in this project:
 
 * Spending Trends Over Time
@@ -35,5 +41,6 @@ Contributions are welcome! Please submit a pull request or raise an issue to sug
 **Contact**
 For any questions or collaborations, reach out via:
 •	Email: rsgis.sudin@gmail.com
+
 •	LinkedIn: https://www.linkedin.com/in/sudin-giri-6814b74a/
 
