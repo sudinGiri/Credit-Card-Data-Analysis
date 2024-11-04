@@ -39,7 +39,8 @@ Here are some of the visualizations used in this project:
 ![Credit Card Transaction Report](https://github.com/user-attachments/assets/f6e42a27-aa1f-4580-8a1c-fb9fba51192a)
 
 
-![Credit Card Customer Report](https://github.com/user-attachments/assets/49ff3727-eccd-4d2f-aa5e-432854575985)
+![Credit Card Customer Report]("https://github.com/user-attachments/assets/49ff3727-eccd-4d2f-aa5e-432854575985" alt="Credit Card Customer Report" style="border: 2px solid black; border-radius: 5px; width: 80%;")
+
 
 
 
