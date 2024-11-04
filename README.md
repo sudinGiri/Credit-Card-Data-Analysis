@@ -35,7 +35,9 @@ Here are some of the visualizations used in this project:
 * Top Merchant Analysis
 * Credit Card Transaction Report
 * Credit Card Customer Report
-* 
+  
+[Credit Card Transaction Report.pdf](https://github.com/user-attachments/files/17618975/Credit.Card.Transaction.Report.pdf)
+[Credit Card Customer Report.pdf](https://github.com/user-attachments/files/17618981/Credit.Card.Customer.Report.pdf)
 
 **Contributing**
 
