@@ -2,11 +2,11 @@
 
 ## Credit Card Data Analysis
 
-**Overview:**
+**Overview :**
 
 The **Credit Card Data Analysis** project aims to provide insightful analytics and visualizations based on credit card transaction data. The project highlights trends, spending habits, and potential areas for financial optimization. This repository contains scripts, datasets, and reports that assist in analyzing financial data and generating actionable insights.
 
-**Features:**
+**Features :**
 * **Data Preprocessing:** Cleaning and formatting raw credit card transaction data.
 * **Descriptive Analysis:** Summary statistics, distribution of spending categories, and trends over time.
 * **Visualization:** Graphs and charts illustrating spending patterns, peaks in usage, and outliers.
@@ -14,7 +14,7 @@ The **Credit Card Data Analysis** project aims to provide insightful analytics a
 * **Predictive Modeling (Optional):** Using machine learning algorithms to forecast future spending.
 * 
 
-**Sample Analysis Workflow:**
+**Sample Analysis Workflow :**
 
 
 1. **Load the Data:** Import transaction data from CSV or database.
@@ -26,7 +26,7 @@ The **Credit Card Data Analysis** project aims to provide insightful analytics a
 4. **Interpret Results:** Summarize findings and create reports for stakeholders.
 
 
-**Visualizations:**
+**Visualizations :**
 
 Here are some of the visualizations used in this project:
 
@@ -36,18 +36,19 @@ Here are some of the visualizations used in this project:
 * Credit Card Transaction Report
 * Credit Card Customer Report
   
-[Credit Card Transaction Report.pdf](https://github.com/user-attachments/files/17618975/Credit.Card.Transaction.Report.pdf)
+![Credit Card Transaction Report](https://github.com/user-attachments/assets/f6e42a27-aa1f-4580-8a1c-fb9fba51192a)
 
-[Credit Card Customer Report.pdf](https://github.com/user-attachments/files/17618981/Credit.Card.Customer.Report.pdf)
 
-![Aishani Giri UKG-E](https://github.com/user-attachments/assets/b922b25b-fe35-4cde-a4e7-b620d837c4c2)
+![Credit Card Customer Report](https://github.com/user-attachments/assets/49ff3727-eccd-4d2f-aa5e-432854575985)
 
-**Contributing**
+
+
+**Contributing :**
 
 Contributions are welcome! Please submit a pull request or raise an issue to suggest improvements.
 
 
-**Contact**
+**Contact :**
 
 For any questions or collaborations, reach out via:
 
