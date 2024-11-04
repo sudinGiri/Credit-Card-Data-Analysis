@@ -12,8 +12,10 @@ The **Credit Card Data Analysis** project aims to provide insightful analytics a
 * **Visualization:** Graphs and charts illustrating spending patterns, peaks in usage, and outliers.
 * **Insights Generation:** Identifying high-expense categories and potential fraudulent activity.
 * **Predictive Modeling (Optional):** Using machine learning algorithms to forecast future spending.
+* 
 
 **Sample Analysis Workflow**
+
 
 1. **Load the Data:** Import transaction data from CSV or database.
 
@@ -33,10 +35,12 @@ Here are some of the visualizations used in this project:
 * Top Merchant Analysis
 * Credit Card Transaction Report
 * Credit Card Customer Report
+* 
 
 **Contributing**
 
 Contributions are welcome! Please submit a pull request or raise an issue to suggest improvements.
+
 
 **Contact**
 
