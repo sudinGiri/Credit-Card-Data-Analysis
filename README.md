@@ -37,7 +37,10 @@ Here are some of the visualizations used in this project:
 * Credit Card Customer Report
   
 [Credit Card Transaction Report.pdf](https://github.com/user-attachments/files/17618975/Credit.Card.Transaction.Report.pdf)
+
 [Credit Card Customer Report.pdf](https://github.com/user-attachments/files/17618981/Credit.Card.Customer.Report.pdf)
+
+![Aishani Giri UKG-E](https://github.com/user-attachments/assets/b922b25b-fe35-4cde-a4e7-b620d837c4c2)
 
 **Contributing**
 
